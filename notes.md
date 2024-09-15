@@ -19,5 +19,7 @@ Video Notes:
   - Now save files and go to cli:
     - `python manage.py makemigrations`
     - `python manage.py migrate`
+- Creating Custom Models (notes, models, ticket!, some "dataclass")
+  - todo
 
 
