@@ -20,6 +20,13 @@ Video Notes:
     - `python manage.py makemigrations`
     - `python manage.py migrate`
 - Creating Custom Models (notes, models, ticket!, some "dataclass")
-  - todo
+  - Writing models and serialisation for creating notes assigned to users.
+- Frontend Setup
+  - `npm create vite@latest frontend -- --template react`
+  - `cd frontend`
+  - `npm install axios react-router-dom jwt-decode`
+  - In `frontend/src`
+    - Delete css files
+    -
 
 
